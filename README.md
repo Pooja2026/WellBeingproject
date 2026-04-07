@@ -114,17 +114,11 @@ Contributions are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
-**Vijay V**
+**Pooja**
 
-* GitHub: https://github.com/VijayV2003
+* GitHub: https://github.com/Pooja2026
 
 ---
 
